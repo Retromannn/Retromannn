@@ -23,9 +23,9 @@ My LinkedIn: <a href="www.google.com">(Doesn't exist yet)</a>
 
 ## Let's play two truths and a lie! 🎮
 
-- I love FIRST Robotics
-- I am passionate towards playing and making video games
-- I have a million billion dollars
+- I love FIRST Robotics ✔️
+- I am passionate towards playing and making video games ✔️
+- I have a million billion dollars ✖️
 
 ## Education
 
