@@ -3,7 +3,7 @@
 My name is Joseph Stallman, but I go by Joey.    
 I'm a high school senior who is still learning about how to code, so I'm not looking to work yet.    
 16m, straight male (he/him)
-
+***
 ## What I know 🧠
 
 - I am HTML and CSS certified
@@ -18,6 +18,7 @@ I'm a high school senior who is still learning about how to code, so I'm not loo
 ## My platforms: 📧
 
 My Email: <a href="jstallman688@gmail.com">Click Here</a>
+
 My LinkedIn: <a href="www.google.com">(Doesn't exist yet)</a>
 
 ## Let's play two truths and a lie! 🎮
