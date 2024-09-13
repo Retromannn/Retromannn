@@ -1,4 +1,29 @@
-## Hi there 👋
+# Hey 😃
+
+My name is Joseph Stallman, but I go by Joey.    
+I'm a high school senior who is still learning about how to code, so I'm not looking to work yet.    
+16m, straight male (he/him)
+
+## What I know 🧠
+
+1. I am HTML and CSS certified
+2. I have a base understanding of Java
+3. I have a base understanding of C#
+4. I have some experience with Unity
+
+## What I'm learning 📖
+
+1. I am learning more in-depth Java code
+
+## How to reach me 📧
+
+My email: jstallman688@gmail.com
+
+## Let's play two truths and a lie: 🎮
+
+- I love FIRST Robotics
+- I am passionate towards playing and making video games
+- I have a million billion dollars
 
 <!--
 **Retromannn/Retromannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
